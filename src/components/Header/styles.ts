@@ -7,10 +7,8 @@ export const style = StyleSheet.create({
     paddingLeft: '20px',
     height: '44px',
     paddingTop: '14px',
-    // justifyContent: 'center',
-    // alignItems: 'center',
-    // backgroundColor: COLORS.BLACK_SECONDARY,
-    backgroundColor: COLORS.BLACK_SECONDARY,
+
+    backgroundColor: COLORS.GRAY_PRIMARY,
   },
   text: {
     color: 'white',

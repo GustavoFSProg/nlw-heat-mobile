@@ -6,10 +6,9 @@ export const style = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    // backgroundColor: COLORS.BLACK_SECONDARY,
-    backgroundColor: COLORS.BLACK_SECONDARY,
+    backgroundColor: COLORS.GRAY_TERTIARY,
   },
   text: {
-    color: 'white',
+    color: 'black',
   },
 })
